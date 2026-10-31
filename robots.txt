@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yodogawa-rental.com/sitemap.xml
